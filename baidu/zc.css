@@ -1,0 +1,114 @@
+#zhu #head{
+	height: 75px;
+	width: 980px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#zhu #head img{
+
+	float: left;
+}
+#zhu #head p{
+	float: right;
+	margin-top: -30px;
+}
+#zhu #head h4{
+	border-left: 1px solid #999;
+	margin-left: 150px;
+	margin-top:10px;
+	line-height: 50px;
+	font-size: 20px;
+	color: gray;
+	
+}
+#zhu #head a{
+	text-decoration:none;
+}
+#zhu #head input{
+	border: none;
+	padding: 9px 18px;
+	border-radius:4px;
+}
+#zhu #content #zuo {
+	height: 75px;
+	width: 980px;
+	margin-left: 25%;
+	margin-right: auto;
+	margin-top: 100px;
+}
+
+#zhu #content #you{
+	/*height: 75px;
+	width: 480px;*/
+	margin-left:50%;
+	margin-right: 25%;
+	margin-top:-150px;
+	float: right;
+}
+#zhu #content #you h2{
+	margin-top:15px;
+	font-size: 15px;
+	margin-bottom:15px;
+}
+#zhu #content #you ul{
+	margin-bottom: 15px;
+}
+#zhu #content #you ul li {
+	margin-top: 15px;
+}
+#zhu #content #you ul li p {
+	font-size: 15px;
+	color: #F93;
+}
+#zhu #content #you ul img {
+	margin-top: 20px;
+}
+
+#zhu #content #zuo ul li {
+	margin-bottom: 30px;
+}
+#zhu #content #zuo ul li strong{
+	font-size: 14px;
+	color: #666;
+}
+#zhu #content #zuo ul li input {
+	width: 300px;
+	font-size: 20px;
+
+}
+#zhu #content #zuo ul li #yzm {
+	width: 180px;
+
+}
+#zhu #content #zuo ul li .submit {
+	background-color: #4490f7;
+	margin-left:25px;
+	margin-top:20px;
+	height: 50px;
+	border: 0;
+	border-radius:5px; 
+}
+
+#zhu #content #zuo ul li #dx {
+	width: 100px;
+	margin-left: 15px;
+	background: #eee;
+	border: 0;
+	color: gray;
+}
+
+#zhu #content #you {
+	border: 1px solid #CFF;
+	text-align: center;
+	background-color: #ECF5FF;
+}
+#zhu #foot{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 400px;
+	height: 75px;
+	width: 980px;
+	text-align: center;
+	color: #7a77c8;
+}

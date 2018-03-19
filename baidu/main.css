@@ -1,0 +1,117 @@
+
+
+li{ list-style:none;}
+.menu_01 .menu_con{ display:none;}
+.menu_02 .menu_con{ display:block; margin-right:-40px;border: 1px solid gray;}
+
+#head{
+	width: 1200px;
+	margin: 0 auto;
+	
+}
+#head #u1{
+	margin-top: -20px;
+	float: right;
+}
+#head #u1 #u2{
+	list-style-type: none;
+	margin-bottom: 200px;
+}
+#head #u1 #u2 li{
+	margin-top: 20px;
+	float: left;
+	line-height: 30px;
+	margin-left: 20px;
+}
+#head #u1 #u2 a{
+	font-size: 13px;
+	color: #333;
+	font-weight: bold;
+	text-decoration: underline;
+}
+#head #s_form #lg{
+	padding-top: 100px;
+	text-align: center;
+	width: 300px;
+	margin-left: 450px;
+}
+
+#head #s_form #form{
+	padding-top: 50px;
+	text-align: center;
+
+}
+#head #s_form #form #bg_one #wd{
+	width: 530px;
+	height: 34px;
+	padding-left: 9px;
+	border: 1px solid #b8b8b8;
+	border-right: 0;
+	
+	background: url(image/camera_grey.png) no-repeat 510px center;
+}
+#head #s_form #form #bg_one #wd{
+	height: 30px;
+}
+#head #s_form #form #bg_one #wd:hover{
+	border: 1px solid #3385ff;
+	border-right: 0;
+	background: url(image/camera_blue.png) no-repeat 510px center;
+}
+
+#head #s_form #form #bg_two #su{
+	width: 100px;
+	height: 36px;
+	background: #3385ff;
+	color: #fff;
+	font-size: 15px;
+	border: 0;
+	cursor: pointer;
+	margin-left: -10px;
+
+}
+
+
+
+
+#ftCon ul {
+	width: 500px;
+	height: 40px;
+	text-align: center;
+    list-style-type: none;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+#ftCon ul li{
+	float: left;
+	margin-right: 40px;
+	color: #999;
+	text-decoration: underline;
+}
+
+#footer{
+	width: 100%;
+	line-height: 22px;
+	text-align: center;
+	color: #999;
+	float: left;
+	margin-top: -20px;
+}
+#footer a{
+	color: #999;
+	text-decoration: underline;
+}
+
+#qrcodeCon #qrcode-item #qrcode-img{
+	padding-top: 30px;
+	text-align: center;
+	margin-top:280px;
+}
+#qrcodeCon #qrcode-item #qrcode-test p{
+	text-align: center;
+	line-height: 12px;
+	color: #666;
+	font-weight: bold;
+
+}
